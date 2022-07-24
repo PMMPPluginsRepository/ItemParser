@@ -1,0 +1,9 @@
+name: ItemSavedTest
+main: skh6075\itemsavedtest\Main
+version: 1.0.0
+api: 5.0.0
+website: https://github.com/skh6075
+
+permissions:
+  item.saved.permission:
+    default: op
